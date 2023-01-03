@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/soumalya-ghoshal-a0a251166/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya0587&show_icons=true&locale=en" alt="soumya0587" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya0587&" alt="soumya0587" /></p>
