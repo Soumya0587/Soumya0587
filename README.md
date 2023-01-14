@@ -29,6 +29,20 @@ Hello Everyone! my name is Soumalya Ghoshal and I am a Full Stack Developer, pas
 
 - 💬 Have a look at my [Portfolio](https://soumya0587.github.io/)
 
+  <br> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+ </p>
+<p align="left">
+	<a href="https://www.linkedin.com/in/soumalya-ghoshal-a0a251166/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+        <a href="ghoshalsoumalya96@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
+</p>
+
 <h2>🥇 Skills:  </h2>  
 <p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
