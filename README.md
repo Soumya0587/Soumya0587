@@ -19,7 +19,7 @@ Hello Everyone! my name is Soumalya Ghoshal and I am a Full Stack Developer, pas
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+- 👯 I’m looking to collaborate on **MERN Stack Project**
 
 - 📫 Reach me on **ghoshalsoumalya96@gmail.com**
 
