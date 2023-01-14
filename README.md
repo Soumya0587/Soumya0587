@@ -37,7 +37,7 @@ Hello Everyone! my name is Soumalya Ghoshal and I am a Full Stack Developer, pas
 	<a href="https://www.linkedin.com/in/soumalya-ghoshal-a0a251166/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="ghoshalsoumalya96@gmail.com">
+        <a href="mailto:ghoshalsoumalya96@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
