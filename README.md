@@ -85,5 +85,5 @@ Hello Everyone! my name is Soumalya Ghoshal and I am a Full Stack Developer, pas
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=soumya0587&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=soumya0587&theme=react-dark&hide_border=true" /></a>
 
