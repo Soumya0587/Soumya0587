@@ -19,17 +19,7 @@ Lately most of that has been AI-shaped: retrieval-augmented generation pipelines
 | **AI / ML**  | RAG pipelines, LLM APIs, vector search (pgvector), LangGraph, rerankers |
 | **Other**    | Stripe, GraphQL, REST, TypeORM, PostHog, Supabase, Vercel           |
 
-### Selected work
-
-**[Agentic RAG](https://github.com/Soumya0587/agentic-rag)** &nbsp;·&nbsp; [live demo](https://agentic-rag-omega.vercel.app) &nbsp;·&nbsp; `Python` `FastAPI` `Next.js`
-
-A multi-agent RAG system over a technical documentation corpus, built end-to-end on free tiers with production patterns. LangGraph orchestration across a Planner → Retriever → Synthesizer → Critic loop, hybrid retrieval (pgvector + trigram + reciprocal rank fusion + cross-encoder rerank), self-correction retries, SSE streaming, structured outputs, observability and an eval harness.
-
-**[Fridge → Recipe](https://github.com/Soumya0587/Fridge-to-Recipe)** &nbsp;·&nbsp; [live demo](https://fridge-to-recipe-jade.vercel.app/) &nbsp;·&nbsp; `Next.js` `TypeScript` `Supabase`
-
-Photograph the inside of your fridge, get a real cookable recipe back. A vision model detects every edible item, an LLM writes the recipe — diet-aware, Indian-first, with a per-user cookbook behind Google sign-in and row-level security.
-
-### Professional work
+### Experience
 
 **Full Stack Developer @ [Fleapo](https://fleapo.com)** — June 2023 → present *(closed source)*
 
