@@ -2,7 +2,7 @@
 
 **Full Stack Developer** — NestJS · React / Next.js · TypeScript · AI & RAG integrations
 
-📍 Kolkata, India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/soumalya-ghoshal-1a70a7276/) &nbsp;·&nbsp; [Portfolio](https://soumya0587.github.io/) &nbsp;·&nbsp; [1996soumalya@gmail.com](mailto:1996soumalya@gmail.com)
+📍 Kolkata, India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/soumalya-ghoshal-1a70a7276/) &nbsp;·&nbsp; [1996soumalya@gmail.com](mailto:1996soumalya@gmail.com)
 
 ---
 
