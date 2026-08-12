@@ -1,89 +1,53 @@
-<h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://soumya0587.github.io/"> Soumalya Ghoshal 💻</a>!
-</h2>
+# Soumalya Ghoshal
 
-Hello Everyone! my name is Soumalya Ghoshal and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.
+**Full Stack Developer** — NestJS · React / Next.js · TypeScript · AI & RAG integrations
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+📍 Kolkata, India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/soumalya-ghoshal-1a70a7276/) &nbsp;·&nbsp; [Portfolio](https://soumya0587.github.io/) &nbsp;·&nbsp; [1996soumalya@gmail.com](mailto:1996soumalya@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya0587&label=Profile%20views&color=0e75b6&style=flat" alt="soumya" /> </p>
+---
 
-   <p align="center" color:"red">
-     <a href="https://github.com/soumya0587/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Soumalya Ghoshal 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
-      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Full-stack developer with 3+ years building production systems — comfortable owning a feature end-to-end, from schema design through to production deployment.
 
-- 🔭 I’m currently pursuing **Full Stack Web Development**
+Lately most of that has been AI-shaped: retrieval-augmented generation pipelines, LLM APIs, and embeddable AI widgets that answer from a customer's own content rather than from the model's world knowledge.
 
-- 🌱 I’m currently learning **MERN stack**
+### What I work with
 
-- 👯 I’m looking to collaborate on **MERN Stack Project**
+|              |                                                                    |
+| ------------ | ------------------------------------------------------------------ |
+| **Backend**  | NestJS, Node.js, Express, PostgreSQL, MongoDB, Redis                |
+| **Frontend** | React, Next.js, TypeScript, Redux, Tailwind                         |
+| **AI / ML**  | RAG pipelines, LLM APIs, vector search (pgvector), LangGraph, rerankers |
+| **Other**    | Stripe, GraphQL, REST, TypeORM, PostHog, Supabase, Vercel           |
 
-- 📫 Reach me on **ghoshalsoumalya96@gmail.com**
+### Selected work
 
-- 💬 ask me about anything, i am happy to help
+**[Agentic RAG](https://github.com/Soumya0587/agentic-rag)** &nbsp;·&nbsp; [live demo](https://agentic-rag-omega.vercel.app) &nbsp;·&nbsp; `Python` `FastAPI` `Next.js`
 
-- ⚡ Fun Fact: Imagination is more important than knowledge
+A multi-agent RAG system over a technical documentation corpus, built end-to-end on free tiers with production patterns. LangGraph orchestration across a Planner → Retriever → Synthesizer → Critic loop, hybrid retrieval (pgvector + trigram + reciprocal rank fusion + cross-encoder rerank), self-correction retries, SSE streaming, structured outputs, observability and an eval harness.
 
-- 💬 Have a look at my [Portfolio](https://soumya0587.github.io/)
+**[Fridge → Recipe](https://github.com/Soumya0587/Fridge-to-Recipe)** &nbsp;·&nbsp; [live demo](https://fridge-to-recipe-jade.vercel.app/) &nbsp;·&nbsp; `Next.js` `TypeScript` `Supabase`
 
-  <br> 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+Photograph the inside of your fridge, get a real cookable recipe back. A vision model detects every edible item, an LLM writes the recipe — diet-aware, Indian-first, with a per-user cookbook behind Google sign-in and row-level security.
 
- </p>
-<p align="left">
-	<a href="https://www.linkedin.com/in/soumalya-ghoshal-a0a251166/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-        <a href="mailto:ghoshalsoumalya96@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-</p>
+### Professional work
 
-<h2>🥇 Skills:  </h2>  
-<p >
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-  
-</p>
+**Full Stack Developer @ [Fleapo](https://fleapo.com)** — June 2023 → present *(closed source)*
 
-<br/>
+- **Convrox** — an embeddable AI support widget businesses drop onto their own site, answering visitor questions from their own content via RAG. I built the widget frontend — embed behaviour, UI rendering and configuration — and wired the Mesh RAG API into the client-side request/response and context handling, partnering with the backend team on pipeline integration and reliability across embedded client sites.
+- **Fanfix** — a large-scale creator membership platform. Post creation, content discovery and end-to-end subscription flows; Next.js frontend against GraphQL and REST, including a rich text editor with formatting and mentions. Stripe checkout and subscription billing on the frontend, over NestJS / PostgreSQL / TypeORM services with Redis caching.
+- **IWAA** — an awards-nomination platform. Admin panel, a dynamic form builder driven by selectable field types, and the PDF-generation pipeline for nomination lists.
+
+### Education
+
+**Full Stack Web Development** — Masai School, Bengaluru · 2022–2023
+**M.Sc. Economics** — Calcutta University, Kolkata · 2017–2019
+**B.Sc. Economics** — Maharaja Manindra Chandra College, Kolkata · 2014–2017
+
+---
 
 <div align="center">
-        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
- 
-</div>
 
-## 📊 My Github Stats
-
-<!-- github status  -->
-
-<div align="center" style="display: flex; gap:50px">
-
-<img src="https://github-readme-stats.vercel.app/api?username=soumya0587&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0587&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Soumya0587&show_icons=true&hide_border=true&count_private=true&theme=react&border_radius=6" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya0587&layout=compact&hide_border=true&theme=react&border_radius=6" alt="Top languages" />
 
 </div>
-<div align="center" style="display: flex; ">
- 
-<img src="https://streak-stats.demolab.com?user=soumya0587&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
-
-</div>
-
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=soumya0587&theme=react-dark&hide_border=true" /></a>
-
